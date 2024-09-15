@@ -21,6 +21,18 @@ The Eudic developers explained that this feature was removed from the Windows ve
 
 Just execute the executable file `EudicProtocolHandler.exe` and you are good to go.
 
+## Usage
+
+Use the custom URL handler in Anki flashcards by adding the following link format:
+
+```html
+<a href='eudic://dict//wit'>wit</a>
+```
+
+Then you can click the link to open the corresponding entry in Eudic Dictionary.
+
+![](demo.gif)
+
 
 ## Compatibility
 
