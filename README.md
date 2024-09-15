@@ -31,7 +31,7 @@ Use the custom URL handler in Anki flashcards by adding the following link forma
 
 Then you can click the link to open the corresponding entry in Eudic Dictionary.
 
-![](demo.gif)
+![](https://raw.githubusercontent.com/0x7FFFFFFFFFFFFFFF/EudicProtocolHandler/main/demo.gif)
 
 
 ## Compatibility
